@@ -1,8 +1,8 @@
-Package: datamundi
+Package: theme.datamundi
 Title: DataMundi ggplot2 Theme and Color Palettes
 Version: 0.1.0
-Authors@R: person("DataMundi", role = c("aut", "cre"),
-    email = "contato@datamundi.com")
+Authors@R: person("Thales Carvalho", role = c("aut", "cre"),
+    email = "datamundi.lab@gmail.com")
 Description: Provides a custom ggplot2 theme, color palettes, and scales
     for DataMundi laboratory visualizations, optimized for social media output.
 License: MIT + file LICENSE
@@ -15,3 +15,5 @@ Imports:
 Suggests:
     scales,
     grDevices
+URL: https://github.com/datamundi-lab/datamundi
+BugReports: https://github.com/datamundi-lab/datamundi/issues
